@@ -11,6 +11,10 @@ accounts:
     account_id: "618154426465"
     alias: raj
     s3_prefix: rajkasten
+  kamal:
+    account_id: "248180323054"
+    alias: mkaml
+    s3_prefix: mkams3
 regions:
   ap-southeast-1: # Singapore
     alias: apse1
