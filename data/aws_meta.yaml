@@ -3,6 +3,10 @@ accounts:
     account_id: "398665273768"
     alias: us-rsch-prd
     s3_prefix: us
+  rajasekhar:
+    account_id: "618154426465"
+    alias: raj
+    s3_prefix: rajkasten
 regions:
   ap-southeast-1: # Singapore
     alias: apse1
