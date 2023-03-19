@@ -15,6 +15,10 @@ accounts:
     account_id: "248180323054"
     alias: mkaml
     s3_prefix: mkams3
+  arjun:
+    account_id: "004423116148"
+    alias: nag
+    s3_prefix: nag3 
 regions:
   ap-southeast-1: # Singapore
     alias: apse1
