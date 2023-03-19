@@ -1,0 +1,23 @@
+accounts:
+  sreedhar:
+    account_id: "398665273768"
+    alias: us-rsch-prd
+    s3_prefix: us
+regions:
+  ap-southeast-1: # Singapore
+    alias: apse1
+    availability_zones: [a, b, c]
+  ap-southeast-2: # Sydney
+    alias: apse2
+    availability_zones: [a, b, c]
+  eu-central-1: # Frankfurt
+    alias: euc1
+    availability_zones: [a, b, c]
+  us-east-1: # Virginia
+    alias: use1
+    availability_zones: [a, b, c, d, e, f]
+  us-east-2: # Ohio
+    alias: use2
+    availability_zones: [a, b, c]
+_metadata:
+  account_alias_regex: "^(?P<location>[a-z]+)-(?P<type>[a-z]+)-(?P<env>dev|prd)$"
