@@ -7,6 +7,10 @@ accounts:
     account_id: "539930022419"
     alias: harsha
     s3_prefix: hms3
+  rajasekhar:
+    account_id: "618154426465"
+    alias: raj
+    s3_prefix: rajkasten
 regions:
   ap-southeast-1: # Singapore
     alias: apse1
