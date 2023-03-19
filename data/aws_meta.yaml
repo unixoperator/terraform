@@ -5,19 +5,19 @@ accounts:
     s3_prefix: us
   harsha:
     account_id: "539930022419"
-    alias: harsha
+    alias: ind-harsha-prd
     s3_prefix: hms3
   rajasekhar:
     account_id: "618154426465"
-    alias: raj
+    alias: ind-raj-prd
     s3_prefix: rajkasten
   kamal:
     account_id: "248180323054"
-    alias: mkaml
+    alias: ind-kam-prd
     s3_prefix: mkams3
   arjun:
     account_id: "004423116148"
-    alias: nag
+    alias: ind-nag-prd
     s3_prefix: nag3 
 regions:
   ap-southeast-1: # Singapore
